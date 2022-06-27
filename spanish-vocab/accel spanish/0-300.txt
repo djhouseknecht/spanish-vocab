@@ -1,0 +1,307 @@
+el, la – the
+de – of, from
+que – that, which
+y – and
+a – to, at
+en – in, on
+un – a, an
+ser – to be, [norm]
+se – ["reflexive" marker]
+no – no
+haber – to have
+por – by, for, through
+con – with
+su – his/her/their/your
+para – for, to, in order to
+como – like, as
+estar – to be, [location, change from norm]
+tener – to have
+le – [3rd person] [indirect object]
+lo – the, [plus noun]
+lo – [3rd person] [direct object masculine]
+todo – all, every
+pero – but, yet, except
+más – more
+hacer – to do, make
+o – or
+poder – to be able to; can
+decir – to tell, say
+este – this, (m) [esta (f)]
+ir – to go
+otro – other, another
+ese – that, (m) [esa (f)]
+la – [3rd person] [direct object feminine]
+si – if, whether
+me – me
+ya – already, still
+ver – to see
+porque – because
+dar – to give
+cuando – when
+él – he, [ellos] them (m)
+muy – very, really
+sin – without
+vez – time, [specific occurrence]
+mucho – much, many, a lot (adv)
+saber – to know [a fact], find out
+qué – what?, which?, how (+ adj)!
+sobre – on top of, over, about
+mi – my
+alguno – some, someone (pron)
+mismo – same
+yo – I (subj)
+también – also
+hasta – until, up to, even (adv)
+año – year
+dos – two
+querer – to want, love
+entre – between, among
+así – like that
+primero – first
+desde – from, since
+grande – large, great, big
+eso – that (n)
+ni – not even, neither, nor
+nos – us (obj)
+llegar – to arrive
+pasar – to pass, spend [time]
+tiempo – time [general], weather
+ella – she, [ellas] them (f)
+sí – yes
+día – day
+uno – one
+bien – well
+poco – little, few, a little bit (adv)
+deber – should, ought to; to owe
+entonces – so, then
+poner – to put (on), get (+adj)
+cosa – thing
+tanto – so much, so many
+hombre – man, mankind, husband
+parecer – to seem, look like
+nuestro – our
+tan – such, as, too, so
+donde – where
+ahora – now
+parte – part, portion
+después – after
+vida – life
+quedar – to remain, stay
+siempre – always, forever
+creer – to believe, think
+hablar – to speak, talk
+llevar – to take, carry
+dejar – to let, leave
+nada – nothing, [not] at all
+cada – each, every
+seguir – to follow, keep on
+menos – less, fewer
+nuevo – new
+encontrar – to find
+algo – something, somewhat
+sólo – only, just
+pues – then, well then
+llamar – to call, name
+venir – to come
+pensar – to think
+aquel – that [over there]
+momento – moment, time
+sino – but, except, rather
+esto – this (n)
+salir – to leave, go out
+volver – to return, to [verb] again
+forma – form, shape, way
+antes – before
+bueno – good
+casa – house
+aunque – although, even though
+mundo – world
+tres – three
+tal – such (a)
+mejor – best, better (adv)
+tomar – to take, drink
+cierto – certain, sure, true
+conocer – to know [someone or place]
+hacia – toward, towards
+cómo – how?
+mujer – woman, wife
+mirar – to look, watch
+hora – hour, time [specific]
+ninguno – no, none, nobody (pron)
+trabajo – work, job, effort
+casi – almost, nearly
+vivir – to live
+aquí – here
+caso – case, occasion
+sentir – to feel, regret
+luego – later, afterwards
+país – country
+tratar – to try, treat, deal with
+lugar – place, position
+te – you, [familiar]
+persona – person
+mayor – larger, older, main
+último – last, final
+propio – own, proper, typical
+quien – who, whom
+punto – point, dot, period
+durante – during, for [time]
+cualquier – any, anyone (pron)
+mano – hand
+nunca – never, ever (adv)
+manera – way, manner (nf)
+cual – which, who, whom (pron)
+mientras – while, whereas, as long as (conj)
+contar – to tell, count (v)
+fin – end (nm)
+tipo – type, kind (nm)
+gente – people (nf)
+además – also, as well, besides (adv)
+solo – lonely, alone
+empezar – to begin, start
+ejemplo – example
+esperar – to wait, hope [for], expect
+hoy – today, nowadays
+lado – side
+hijo – son, [pl] children
+allí – there, over there
+éste – this one (m), [ésta (f)]
+problema – problem
+cuenta – bill, account
+medio – means, middle
+pormedio – average
+por medio – in the way, all over the place, every other (L/A)
+contra – against, opposite
+buscar – to look for
+dentro – inside
+largo – long
+palabra – word
+existir – to exist
+niño – child, little boy
+entrar – to enter
+embargo – sin embargo: nevertheless
+único – only, unique, sole
+padre – father
+trabajar – to work
+pequeño – little, small, young
+alto – tall, high
+cambio – change
+escribir – to write
+cuatro – four
+ahí – there
+perder – to lose, miss
+nosotros – we (subj)
+historia – history, story
+idea – idea
+agua – (el) water
+producir – to produce, cause
+noche – night, evening
+ciudad – city
+modo – way, manner
+nombre – name, noun
+ocurrir – to happen, occur
+familia – family
+realidad – reality, actuality
+entender – to understand
+pedir – to ask for, request
+recibir – to receive
+obra – work, book, deed
+importante – important
+medio – half, middle
+verdad – truth
+mes – month
+todavía – still, yet
+razón – reason, to be right
+en cuanto a – in terms of, regarding
+permitir – to allow, permit
+aparecer – to appear
+conseguir – to get, acquire, obtain
+comenzar – to begin, start
+varios – several, various
+posible – possible
+servir – to serve
+general – general
+sacar – to take out
+necesitar – to need
+relación – relationship, relation
+cinco – five
+terminar – to finish, end
+bajo – under, underneath
+recordar – to remember, remind
+grupo – group
+mil – thousand
+humano – human
+cuerpo – body
+nadie – nobody, anybody
+mantener – to keep, maintain
+hecho – fact, happening
+ante – before, in the presence of
+principio – beginning, principle
+resultar – to result, turn out
+igual – equal, same (as)
+señor – sir, Mr, lord
+pueblo – people, village
+tarde – afternoon, evening
+segundo – second
+leer – to read
+caer – to fall
+cambiar – to change
+ojo – eye
+calle – street
+presentar – to introduce, present
+blanco – white
+crear – to create
+abrir – to open
+libro – book
+distinto – distinct, different
+fuerza – strength, force, power
+luz – light
+según – according to
+santo – saint (m)
+claro – clear
+frente – front
+al frente – facing
+frente a – across
+considerar – to consider
+amigo – friend
+oír – to hear
+cuyo – whose
+sentido – sense, feeling
+acabar – to finish, to end
+acabar de – just, to finish
+de repente – suddenly
+paso – step, pace
+situación – situation
+usted – you (subj/-fam)
+bastante – rather, fairly, quite a bit (adv)
+convertir – to convert, change, become
+gracia – (pl) thank you; grace, favor
+siglo – century, age
+dios – god, divinity
+malo – bad
+tierra – earth, land, ground
+papel – paper, role, part
+madre – mother
+tampoco – neither, nor, either
+social – social
+viejo – old, aged
+aún – still, yet
+tema – theme, subject, topic
+político – political
+español – Spanish
+ganar – to win, earn
+formar – to form
+clase – kind, class, order
+traer – to bring, carry
+partir – to divide, leave
+a partir de – starting
+dinero – money
+quién – who?, whom?
+morir – to die
+incluso – including, even (adv)
+campo – field, country
+aceptar – to accept
+quizás – perhaps, maybe
+cabeza – head (part of body)
+realizar – to fulfill, carry out
+ciento – hundred
